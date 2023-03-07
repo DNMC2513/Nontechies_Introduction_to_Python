@@ -8,8 +8,8 @@
 ## __`OUTLINE`__:
 1. OVERVIEW
 2. FIRST STEPS TO CODE IN PYTHON:
-- How to install python?
-- Recommended_editor: JupterLab
+- Prt1: How to install Python and how to start to code.
+- Prt2: Recommended_editor_JupyterLab
 3. SYNTAX of PYTHON:
 
 
