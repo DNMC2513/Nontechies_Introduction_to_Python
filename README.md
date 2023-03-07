@@ -11,3 +11,7 @@
 - How to install python?
 - Recommended_editor: JupterLab
 3. SYNTAX of PYTHON:
+
+
+
+> If you come across any errors in this Git_Repository, feel free to pull a request.
