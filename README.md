@@ -11,10 +11,15 @@
 - a: How to install Python and how to start to code.
 - b: Recommended_editor_JupyterLab
 3. PYTHON'S GRAMMAR:
-- a: Inputs
-- b: Syntax 
-- c: Functions, Modules, and Libraries
-- d: Control Flow
+- a. Inputs: Variables, Objects Type, Data Structure.
+- b. Syntax: Statement, Indentation, Keywords, Comments
+- c. Control Flow: Loop
+- d. Operations, Functions, Modules, and Libraries: Definition, Statements_Operations_Functions to work with Strings, Modules_Type_How to import, Library_Type_How to import.
+4. ADVANCE:
+- a. Working with files
+- b. RegEx
+- c. Handle Exception and Errors
+- d. API
 
 
 
