@@ -10,7 +10,11 @@
 2. FIRST STEPS TO CODE IN PYTHON:
 - a: How to install Python and how to start to code.
 - b: Recommended_editor_JupyterLab
-3. SYNTAX of PYTHON:
+3. PYTHON'S GRAMMAR:
+- a: Inputs
+- b: Syntax 
+- c: Functions, Modules, and Libraries
+- d: Control Flow
 
 
 
