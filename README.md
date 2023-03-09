@@ -7,14 +7,14 @@
 ------
 ## __`OUTLINE`__:
 1. OVERVIEW
-2. FIRST STEPS TO CODE IN PYTHON:
+2. PREP FOR CODING:
 - a: How to install Python and how to start to code.
 - b: Recommended_editor_JupyterLab
-3. PYTHON'S GRAMMAR:
-- a. Inputs: Variables, Objects Type, Data Structure.
-- b. Syntax: Statement, Indentation, Keywords, Comments
-- c. Control Flow: Loop
-- d. Operations, Functions, Modules, and Libraries: Definition, Statements_Operations_Functions to work with Strings, Modules_Type_How to import, Library_Type_How to import.
+3. BASIC:
+- a. Working with Objects
+- b. Control Flow: Loop
+- c. Syntax: Statement, Indentation, Keywords, Comments
+- d. Modules, and Libraries: Definition, Statements_Operations_Functions to work with Strings, Modules_Type_How to import, Library_Type_How to import.
 4. ADVANCE:
 - a. Working with files
 - b. RegEx
