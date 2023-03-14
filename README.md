@@ -8,8 +8,9 @@
 ## __`OUTLINE`__:
 1. OVERVIEW
 2. PREP FOR CODING:
-- a: How to install Python and how to start to code.
-- b: Recommended_editor_JupyterLab
+- a: Inputs in Python
+- b: Working with Strings
+- c: Python calculator - Working with bool and numerical data
 3. BASIC:
 - a. Working with Objects
 - b. Control Flow: Loop
